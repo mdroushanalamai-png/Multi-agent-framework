@@ -35,13 +35,6 @@ If you're new to BharatMatrix, follow our [quickstart](https://docs.bharatmatrix
 
 After that, checkout the [examples gallery](https://docs.bharatmatrix.ai/examples/introduction) and build real-world applications with BharatMatrix.
 
-## Documentation, Community & More Examples
-
-- Docs: <a href="https://docs.bharatmatrix.ai" target="_blank" rel="noopener noreferrer">docs.bharatmatrix.ai</a>
-- Cookbook: <a href="https://github.com/bharatmatrix/bharatmatrix/tree/main/cookbook" target="_blank" rel="noopener noreferrer">Cookbook</a>
-- Community forum: <a href="https://community.bharatmatrix.ai/" target="_blank" rel="noopener noreferrer">community.bharatmatrix.ai</a>
-- Discord: <a href="https://discord.gg/bharatmatrix" target="_blank" rel="noopener noreferrer">discord</a>
-
 ## Example
 
 Here's an example of an Agent that connects to an MCP server, manages conversation state in a database, is served using a FastAPI application that you can chat with using the [Bhartmatrix.ai Agent Os](https://os.bharatmatrix.ai).
@@ -86,10 +79,6 @@ Building Agents is easy, running them is hard, and that's where the AgentOS come
 2. **Integrated Control Plane**: The [AgentOS UI](https://os.bharatmatrix.ai) connects directly to your runtime, letting you test, monitor, and manage your system in real time, giving you unmatched control over your system.
 
 3. **Private by Design**: AgentOS runs entirely in your cloud, ensuring complete data privacy. No data ever leaves your system. This is ideal for security-conscious enterprises.
-
-Here's what the [AgentOS UI](https://os.bharatmatrix.ai) looks like in action:
-
-https://github.com/user-attachments/assets/feb23db8-15cc-4e88-be7c-01a21a03ebf6
 
 ## The Complete Agentic Solution
 
