@@ -180,7 +180,6 @@ python cookbook/evals/performance/comparison/pydantic_ai_instantiation.py
 
 LangGraph is on the right, **let's start it first and give it a head start**. Then CrewAI and Pydantic AI follow, and finally BharatMatrix. BharatMatrix obviously finishes first, but let's see by how much.
 
-https://github.com/user-attachments/assets/54b98576-1859-4880-9f2d-15e1a426719d
 
 ### Memory Usage
 
